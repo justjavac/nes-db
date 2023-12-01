@@ -63,5 +63,6 @@ file for details.
 
 ## ACKNOWLEDGEMENT
 
-**The data for this project is sourced from [nesdir](https://github.com/nesdir/nesdir/blob/master/cartdb.xml). Great thanks to
-[@rdanbrook](https://github.com/rdanbrook)'s work.**
+**The data for this project is sourced from
+[nesdir](https://github.com/nesdir/nesdir/blob/master/cartdb.xml). Great thanks
+to [@rdanbrook](https://github.com/rdanbrook)'s work.**
