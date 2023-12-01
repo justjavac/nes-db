@@ -1,11 +1,9 @@
 {
   "compilerOptions": {
-    "declaration": true,
+    "declaration": false,
     "target": "esnext",
     "moduleResolution": "node",
-    "strict": true,
-    "outDir": "./dist",
-    "module": "esnext"
+    "strict": true
   },
   "include": ["./src"],
   "exclude": ["node_modules/"]
