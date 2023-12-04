@@ -1,7 +1,7 @@
 {
   "name": "nes-db",
   "description": "A database of NES games, with information about their publishers, developers, release dates, and more.",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "author": "justjavac <justjavac@gmail.com>",
   "scripts": {
     "build": "tsc -m commonjs --outDir dist/cjs && tsc -m esnext --outDir dist/esm -d",
