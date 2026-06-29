@@ -3,6 +3,8 @@
     "declaration": false,
     "target": "esnext",
     "moduleResolution": "node",
+    "rootDir": "./src",
+    "ignoreDeprecations": "6.0",
     "strict": true
   },
   "include": ["./src"],
